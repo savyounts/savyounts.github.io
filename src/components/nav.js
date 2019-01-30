@@ -8,8 +8,7 @@ export default() => (
     <div>
       <ListLink to='/about'>about</ListLink>
       <ListLink to='/projects'>projects</ListLink>
-      <ListLink to='savyounts.com'>blog</ListLink>
-      <ListLink to='/contact'>contact</ListLink>
+      <ListLink to='/blog'>blog</ListLink>
     </div>
 
 )
