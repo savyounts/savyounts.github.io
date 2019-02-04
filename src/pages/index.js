@@ -9,7 +9,7 @@ export default () => (
     <div style={divStyles}>
         <h1 style={h1Styles}>Sav Younts</h1>
         <p style={pStyles}>
-          DESIGNER/DEVELOPER
+          DEVELOPER/DESIGNER
         </p>
     </div>
 
