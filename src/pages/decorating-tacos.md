@@ -1,6 +1,6 @@
 ---
 title: "Decorating Tacos"
-date:
+date: "2018-12-07"
 ---
 
 Mmm.. tacos.

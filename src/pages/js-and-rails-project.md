@@ -1,6 +1,6 @@
 ---
 title: "JS and Rails Project"
-date: ""
+date: "2018-11-18"
 ---
 
 This project was hard, that's just how it is, but I did learn a lot throughout my struggles to complete this project. First off, I had a difficult time deciding the best way to implement the AJAX requests that I was required to have into the Rails app I had already built. Once I made a decision, I still ended up going back and changing how to do it several times.
@@ -28,4 +28,4 @@ $('#user-buttons').on('click', '.my-trips', (e) =>{
 
 I just had to find the closest parent element to those buttons that is always on the page.
 
-There were a lot of little things about JS that weren't necessarily covered in our course, so it took a lot of digging to figure out why they weren't working they way I thought that they should. I do feel more comfortable with JS and AJAX than I did walking into this project and hopefully will continue to get the feel for it as I continue writing more and more. 
+There were a lot of little things about JS that weren't necessarily covered in our course, so it took a lot of digging to figure out why they weren't working they way I thought that they should. I do feel more comfortable with JS and AJAX than I did walking into this project and hopefully will continue to get the feel for it as I continue writing more and more.

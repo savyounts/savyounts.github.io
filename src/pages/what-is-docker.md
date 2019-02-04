@@ -1,6 +1,6 @@
 ---
 title: "What is Docker?"
-date:
+date: "2018-11-30"
 ---
 
 As I have come to the end of my Flatiron Web Development course I've slowly been starting the long, painful process of job searching. Throughout my search, I have come across many job descriptions that ask for experience with Docker, which led me to the question -- What the heck is Docker?

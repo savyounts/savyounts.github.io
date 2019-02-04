@@ -1,6 +1,6 @@
 ---
 title: "Intro To APIs"
-date:
+date: "2019-01-10"
 ---
 
 A little over a year ago I was applying for a non-technical job at [Zapier](https://zapier.com/), one of the requirements for the job was to understand APIs. What they are, how they work, how to talk-the-talk if not also walk-the-walk. I had absolutely no clue what an API was. So I did what any Millennial today would do and took to the Internet. I spent several days going through this big [tutorial ](https://zapier.com/learn/apis/)(that Zapier had actually created) learning what an API was. In the end, I felt like I knew barely more than I had when I started.

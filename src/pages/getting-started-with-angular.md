@@ -1,6 +1,6 @@
 ---
 title: "Getting Started With Angular"
-date:
+date: "2019-02-19"
 ---
 
 During my time at Flatiron School, we spent most of our Frontend time learning and working with [React](https://reactjs.org/), a JS library that uses components that make it painless to build interactive UIs. As I have been going through my job search, I've seen many postings that ask for experience in Angular, another JS library. This made me curious and want to see what the differences are and find out which one I may like better, so I decided to start Flatiron's Angular course.

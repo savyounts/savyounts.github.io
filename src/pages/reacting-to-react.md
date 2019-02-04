@@ -1,6 +1,6 @@
 ---
 title: "Reacting To React"
-date:
+date: "2018-11-28"
 ---
 
 It's here. After several months of long days and hard work, I finally finished my final project for Flatiron School's Full Stack Web Developer program.
