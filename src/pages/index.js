@@ -1,12 +1,11 @@
 import React from "react"
-import Background from '../images/dark-bkg.jpg'
 import Header from '../components/header'
 
 
 export default () => (
   <div>
     <Header />
-    
+
     <div style={divStyles}>
         <h1 style={h1Styles}>Sav Younts</h1>
         <p style={pStyles}>

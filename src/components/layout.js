@@ -1,6 +1,5 @@
 import React from 'react'
 import Header from './header'
-import Container from './container'
 
 
 export default({children}) => (

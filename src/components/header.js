@@ -9,7 +9,7 @@ export default() => (
   <header style={headerStyles}>
 
     <Link to='/' style={{textDecoration:'none'}}>
-      <img src={logo} style={{width: '3rem'}}/>
+      <img src={logo} alt="Sav Younts Logo" style={{width: '3rem'}}/>
     </Link>
 
     <Nav/>
@@ -18,10 +18,6 @@ export default() => (
 
 )
 
-
-const ListLink = (props) => (
-  <Link to={props.to} style={{textDecoration:'none', color:'white', padding: '0 2em'}}>{props.children} </Link>
-)
 
 const headerStyles ={
   backgroundColor:'black',

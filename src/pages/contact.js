@@ -1,7 +1,5 @@
 import React from 'react'
 import Layout from '../components/layout'
-import me from '../images/me.jpg'
-import Container from '../components/container'
 import ContactForm from '../components/contact-form'
 
 export default() => (
