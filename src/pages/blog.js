@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import Button from '../components/button'
 import BlogStyles from '../components/project.module.css'
 
