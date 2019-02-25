@@ -1,6 +1,7 @@
 ---
 title: "Netflix Bestflix -- A Ruby Gem"
 date: "2018-09-03"
+tags: "blog"
 ---
 
 Module one came to an end which meant it was time for my first big project: building a Ruby Gem with a CLI interface.

@@ -1,6 +1,7 @@
 ---
 title: "And So The Journey Begins..."
 date: "2018-08-13"
+tags: "blog"
 ---
 
 # And so the journey begins...

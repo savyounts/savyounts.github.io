@@ -1,6 +1,7 @@
 ---
 title: "Slow And Steady Wins The Race"
 date: "2018-10-24"
+tags: "blog"
 ---
 
 Today I finished my first Rails app.
@@ -17,7 +18,7 @@ The silver lining of was learning several valuable lessons:
 
 2.  You can't have two associations between the same two tables without a little extra work, but thankfully not too much extra work. [Aliases](http://savyounts.com/activerecord_aliases) are your friend and let you name your associations to things that just sound right.
 
-3. Make sure omniAuth is spelled correctly or your third-party login will never work. 
+3. Make sure omniAuth is spelled correctly or your third-party login will never work.
 
 4. Don't erase all of your working code when you refactor -- keep it close by in case this new, nice looking code breaks anything and everything.
 

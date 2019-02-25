@@ -1,6 +1,7 @@
 ---
 title: "Route Finder -- A Sinatra Application"
 date: "2018-10-08"
+tags: "blog"
 ---
 
 If Sinatra is just a starting point for being introduced to Rails, then I'm convinced that Rails is magic. I just completed my Sinatra web application, Route Finder, which was so incredibly easy and quick thanks to all of the Sinatra built-in features. Associations couldn't have been simpler to put together and everything flowed fairly easily. After getting all of my logic and functionality set up, the part that I spent the majority of my time on was the CSS to try to make my app look somewhat appealing.

@@ -1,6 +1,7 @@
 ---
 title: "Strategically Making Sushi"
 date: "2018-12-11"
+tags: "blog"
 ---
 
 In an earlier post I talked about the [Decorator Design Pattern](http://savyounts.com/decorating_tacos). The Decorator pattern is like changing the "skin" of a class, you're only adjusting the outside look of it, not anything that actually happens within the class itself. Today, we're going to dive in and talk about how to change the "guts" of a class with the Strategy Pattern.

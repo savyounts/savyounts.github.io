@@ -1,6 +1,7 @@
 ---
 title: "Decorating Tacos"
 date: "2018-12-07"
+tags: "blog"
 ---
 
 Mmm.. tacos.

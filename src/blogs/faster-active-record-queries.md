@@ -1,6 +1,7 @@
 ---
 title: "Faster ActiveRecord Queries"
 date: "2019-01-27"
+tags: "blog"
 ---
 
 I was recently working on a project where something pretty big was pointed out to me, querying straight from your database is MUCH faster than using Ruby to make the same calculations. Before, when I was grabbing or manipulating information from my database, I was using methods like

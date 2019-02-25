@@ -1,6 +1,7 @@
 ---
 title: "JS and Rails Project"
 date: "2018-11-18"
+tags: "blog"
 ---
 
 This project was hard, that's just how it is, but I did learn a lot throughout my struggles to complete this project. First off, I had a difficult time deciding the best way to implement the AJAX requests that I was required to have into the Rails app I had already built. Once I made a decision, I still ended up going back and changing how to do it several times.

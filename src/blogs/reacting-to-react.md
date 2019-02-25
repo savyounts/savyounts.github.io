@@ -1,6 +1,7 @@
 ---
 title: "Reacting To React"
 date: "2018-11-28"
+tags: "blog"
 ---
 
 It's here. After several months of long days and hard work, I finally finished my final project for Flatiron School's Full Stack Web Developer program.

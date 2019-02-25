@@ -1,6 +1,7 @@
 ---
 title: "Give It a REST"
 date: "2018-09-22"
+tags: "blog"
 ---
 
 REST stands for REpresentational State Transfer and it is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.  It does not enforce any rules on how it should be implemented, it is just a high-level design guideline to help improve consistency. In REST, the primary data representation is called a Resource. Resources should only have one logical URI that should provide a way to deliver the data that the client requests. It is best to name your resource and web page the same.

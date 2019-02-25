@@ -1,6 +1,7 @@
 ---
 title: "Local Storage"
 date: "2018-11-29"
+tags: "blog"
 ---
 
 While I was working to add Javascript to my Rails application I ran into a slight problem. In one of my views, I had two links that should conditionally show up depending whether or not you were the owner of the object on that show page:
@@ -21,7 +22,7 @@ The issue was that in the above code snippet, I am carrying over the same @desti
 The answer:
 Local Storage.
 
-Before HTML 5, application data had to be stored in cookies, included with every server request, but now with web storage, web application can store data locally within the user's browser without affecting website performance. HTML web storage provides two objects for storing data on the client: localStorage and sessionStorage. 
+Before HTML 5, application data had to be stored in cookies, included with every server request, but now with web storage, web application can store data locally within the user's browser without affecting website performance. HTML web storage provides two objects for storing data on the client: localStorage and sessionStorage.
 SessionStorage stores data for one session while localStorage stores data with no expiration date -- localStorage data will not be deleted when the browser is closed.
 
 LocalStorage has 5 methods to choose from that you can use in your web applications:

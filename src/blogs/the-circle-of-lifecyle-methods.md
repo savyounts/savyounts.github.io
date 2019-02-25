@@ -1,6 +1,7 @@
 ---
 title: "The Circle of Life(cycle) Methods"
 date: "2018-12-16"
+tags: "blog"
 ---
 
 ![](https://media1.tenor.com/images/f36e795129d68eabc7336f69e142e7db/tenor.gif?itemid=9789392)

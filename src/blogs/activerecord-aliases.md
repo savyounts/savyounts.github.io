@@ -1,12 +1,13 @@
 ---
 title: "ActiveRecord Aliases"
 date: "2018-11-10"
+tags: "blog"
 ---
 
 In my last project, I learned how to work with ActiveRecord aliases, so I decided to write a little about how those work and why you need them.
 
 First, a bit about my project and what I was trying to accomplish...
-The Rails app that I was working on was a travel app, I had several models but three big ones were my `Users`, `Trips`, and `Destinations`. `Trips` were seen as my join table so that `Users` and `Destinations` could have many `Trips`, a `Trip` belongs to a `User` and a `Destination` and therefore, `Users` have many `Destinations` through `Trips` (and vice versa). 
+The Rails app that I was working on was a travel app, I had several models but three big ones were my `Users`, `Trips`, and `Destinations`. `Trips` were seen as my join table so that `Users` and `Destinations` could have many `Trips`, a `Trip` belongs to a `User` and a `Destination` and therefore, `Users` have many `Destinations` through `Trips` (and vice versa).
 Thats a lot of words when typing out, but with ActiveRecord `has_many`, `belongs_to` and `has_many  through:` associates, is a pretty simple set up.
 
 Additionally, my `User` is the one who will create these `Destinations`. So I wanted my `User` to be able to have many `Destinations` directly as well, so that a `Destination` belongs to its creator (`User`). In an ideal world I wanted to be able to call `my_user.destinations` and have all the destinations that `my_user` created and that they had through their `Trips`. Unfortunately, it is not an ideal world. BUT, thankfully, because of ActiveRecord aliases, it still isn't difficult to do this.

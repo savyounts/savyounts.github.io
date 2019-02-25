@@ -1,6 +1,7 @@
 ---
 title: "How To Set Up a Rails API"
 date: "2019-01-15"
+tags: "blog"
 ---
 
 Like I mentioned in my previous blog,
