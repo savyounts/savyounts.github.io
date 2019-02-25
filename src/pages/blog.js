@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Button from '../components/button'
 import BlogStyles from '../components/project.module.css'
 
@@ -15,7 +15,7 @@ export default({data}) => (
         <h2>{node.frontmatter.title}</h2>
         <p>{node.frontmatter.date}</p>
         <p>{node.excerpt}</p>
-        <Button href="#" text="Read More"/>
+        <Button href={node.fields.slug} text="Read More"/>
         <div className={BlogStyles.line}></div>
       </section>
     ))}
@@ -46,6 +46,9 @@ export const query = graphql`
           frontmatter {
             title
             date(formatString: "DD MMMM, YYYY")
+          }
+          fields{
+            slug
           }
           excerpt
         }

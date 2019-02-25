@@ -1,6 +1,5 @@
 import React from 'react'
 import Layout from '../components/layout'
-import computer from '../images/computer.png'
 import Project from '../components/project'
 import { graphql } from 'gatsby'
 
