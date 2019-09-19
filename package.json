@@ -9,6 +9,7 @@
     "start": "npm run develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
+    "deploy:github": "npm run build && node ./scripts/deploy-github",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
