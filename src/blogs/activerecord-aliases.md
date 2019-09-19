@@ -1,6 +1,6 @@
 ---
 title: "ActiveRecord Aliases"
-date: "2018-11-10"
+date: "2018-11-11"
 tags: "blog"
 ---
 
