@@ -5,7 +5,7 @@ import Container from '../components/container'
 
 export default() => (
     <Layout>
-        <h1 style={{marginLeft: '11%'}}>They call me Sav... </h1>
+        <h1 style={{marginLeft: '21%'}}>They call me Sav... </h1>
           <Container>
             <div style={{paddingRight:'1rem'}}>
               <p>
@@ -18,7 +18,7 @@ export default() => (
                 Living a healthy lifestyle is very important to me, so I stay active by playing several sports at varying levels as well as incorporate other workouts during the off seasons. My love for being active and love of the outdoors that has fueled my passion to design within the sports/outdoors industry. I do my best to stand out and be a little different from everyone around me; to me, normal is boring, so we should each embrace who we really are. With that, I plan to keep doing what I'm doing; learning new skills, exploring new places and always looking for something new to make me better and keep life interesting.
               </p>
             </div>
-            <img src={me} alt='Savannah' style={{width:'50%', padding:'0 1rem'}}/>
+            <img src={me} alt='Savannah' style={{width:'50% !important', marginTop:'0', padding:'0 1rem'}}/>
           </Container>
     </Layout>
 )

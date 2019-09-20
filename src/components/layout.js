@@ -3,7 +3,7 @@ import Header from './header'
 
 
 export default({children}) => (
-  <div style={{ backgroundColor: 'white', height: '100%' }}>
+  <div style={{ backgroundColor: 'white', height: '100%'}}>
       <Header />
       {children}
   </div>

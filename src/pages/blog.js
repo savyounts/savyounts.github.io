@@ -30,7 +30,7 @@ export default({data}) => (
 const masterDiv ={
   display: 'flex',
   flexDirection: 'column',
-  width: '70%',
+  width: '60%',
   margin: '2rem auto'
 }
 
