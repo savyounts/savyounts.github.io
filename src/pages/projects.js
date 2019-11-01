@@ -14,6 +14,7 @@ export default({data})=> (
             href={node.frontmatter.href}
             buttonText={node.frontmatter.buttonText}
             type={node.frontmatter.type}
+            img={node.frontmatter.img.publicURL}
             />
         ))}
 
@@ -47,6 +48,9 @@ export const query = graphql`
             type
             href
             buttonText
+            img {
+              publicURL
+            }
           }
         }
       }

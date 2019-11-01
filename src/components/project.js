@@ -17,7 +17,7 @@ export default(props) => (
         </p>
       </div>
 
-      <img src={project} alt="project" className={projectStyles.imgStyle} />
+      <img src={props.img} alt="project" className={projectStyles.imgStyle} />
     </section>
 
     <Button href={props.href} text={props.buttonText}/>

@@ -1,7 +1,7 @@
 ---
 title: "GOAT (Get Out And Travel)"
 tags: "project"
-img: "../images/computer.png"
+img: "../images/Goat.png"
 href: "https://goat-travel.herokuapp.com"
 buttonText: "Launch"
 type: "Development | Design"
